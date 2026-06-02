@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Rahul Birdi, an Android App Developer specializing in React Native. I am passionate about building user-friendly, responsive, and high-performance mobile applications. With a strong foundation in mobile app development, I focus on creating intuitive user experiences and clean, maintainable code. I enjoy learning new technologies, solving real-world problems, and collaborating on innovative projects that deliver value to users.
+
 <br>I’m currently working on Android applications using React Native.<br>
 <br>I’m looking to collaborate on mobile app development projects and innovative tech solutions.<br>
 <br>I’m looking for help with advanced React Native development and app optimization.<br>
