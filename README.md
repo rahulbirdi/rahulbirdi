@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Birdi</h1>
+<h1 align="center">Hi 👋, I'm RAHUL BIRDI</h1>
 <h3 align="center">📱 App Developer &nbsp;|&nbsp; 🤖 Android Specialist &nbsp;|&nbsp; ⚛️ React Native Engineer</h3>
 
 ---
