@@ -6,7 +6,7 @@
 
 Hi, I'm **Rahul Birdi**, an Android App Developer specializing in React Native. I am passionate about building user-friendly, responsive, and high-performance mobile applications. With a strong foundation in mobile app development, I focus on creating intuitive user experiences and clean, maintainable code. I enjoy learning new technologies, solving real-world problems, and collaborating on innovative projects that deliver value to users.
 
-- 🛠 **Tech Stack:** React Native, Android SDK, TypeScript
+- 🛠 **Tech Stack:** React Native, Android SDK, JavaScript
 - 🎯 **Focus:** Scaling apps via clean code & modern UI architecture
 - 🚀 **Expertise:** Performance optimization & advanced deployment pipelines
 - 🤝 **Open To:** Open-source collaboration & mobile tech discussions
